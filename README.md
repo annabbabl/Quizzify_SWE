@@ -37,7 +37,7 @@ Um Quizzify zu starten und den Spaß zu beginnen, befolgen Sie bitte die nachfol
     ./installationScript.sh
  ```
 
-3. Gehe auf folgende Wesite ***http://YOUR_API_ADRESS:8081***. Mitspieler sollten das gleiche Natzwerk benutzen und ebenfalls die genannte URL besuchen.
+3. Um alleine zu spielen, kannst du auf ***http://localhost:8081*** zugreifen. Um Multiplayer zu spielen den gehe auf folgende Wesite ***http://YOUR_API_ADRESS:8081***. Mitspieler sollten das gleiche Natzwerk benutzen und ebenfalls die genannte URL besuchen.
 
 4. Melde dich mit folgendem Account an, um bereits bestehende Fragen und ein konfiguriertes Template zu erhalten.
 
