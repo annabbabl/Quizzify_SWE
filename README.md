@@ -26,7 +26,7 @@ Um Quizzify zu starten und den Spaß zu beginnen, befolgen Sie bitte die nachfol
 
    ```bash
    #!/bin/bash
-   git clone https://github.com/annabbabl/quizzify.git
+   git clone https://github.com/annabbabl/Quizzify_SWE.git
    ```
 
 2. Führe das Installationsscipt aus.
