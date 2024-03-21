@@ -1,5 +1,5 @@
 npm i 
-npx expo startb
+npx expo start
 
 
 
